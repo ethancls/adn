@@ -1,0 +1,16 @@
+7
+9
+5
+TGCAC
+3
+CGA
+4
+ACCT
+6
+GTACGT
+3
+TAG
+4
+CGTA
+3
+TTC

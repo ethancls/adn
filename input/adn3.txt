@@ -1,0 +1,44 @@
+7
+10
+3
+TGG
+2
+CA
+3
+TCG
+4
+ATCG
+4
+GCAT
+3
+GAT
+2
+TG
+
+TGGCATCGATCGTG 11
+TGG
+   CA
+     TCG
+        ATCG
+  GCAT      
+       GAT      
+            TG
+
+TGGCGATGCTCGTG
+TGG
+      TG
+         TCG
+   CGAT
+     ATGC    
+    GAT      
+            TG
+
+
+TGGCGATGCTCGTG
+1 TGG
+7 TG
+10 TCG
+4 CGAT
+6 ATGC
+5 GAT
+13 TG

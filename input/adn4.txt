@@ -1,0 +1,31 @@
+9
+8
+2
+AT
+2
+TG
+3
+CCA
+3
+ATG
+4
+ATGC
+2
+AT
+4
+CATG
+3
+ATG
+5
+GCCAT
+
+ATGCCATG
+AT
+ TG
+   CCA
+     ATG
+ATGC
+     AT
+    CATG
+ATG
+  GCCAT
