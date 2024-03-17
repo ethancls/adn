@@ -6,4 +6,4 @@ make
 ./main
 ```
 
-Les paramètres par défaut qont modifiables dans le fichier gen.c sous defineConst()
+Les paramètres par défaut sont modifiables dans le fichier gen.c sous defineConst()
