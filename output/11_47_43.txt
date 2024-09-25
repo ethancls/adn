@@ -1,0 +1,37 @@
+
+Rating : 90.92% , Time : 0.01 s
+ACTGAAC
+***TCAC
+**TGAA*
+ACT****
+
+Rating : 100.00% , Time : 0.01 s
+ACTTCAC
+***TCAC
+**TTCA* MUTE
+ACT****
+
+Rating : 100.00% , Time : 0.04 s
+GTGAACT
+GTGA*** MUTE
+*TGAA**
+****ACT
+
+Rating : 100.00% , Time : 0.08 s
+GTGAAGT
+GTGA*** MUTE
+*TGAA**
+****AGT MUTE
+
+Rating : 100.00% , Time : 0.14 s
+AGTTCAC
+***TCAC
+**TTCA* MUTE
+AGT**** MUTE
+
+SPECS : 
+
+    Different valid sequences : 5
+    Settings [POP : 1000, ERA : 10000, IOTA : 21, FILE : adn1.txt, OUTPUT : output/11_47_43.txt]
+    CPU time : 0 min 30 s 
+    MEMORY used : 0 mo, 256 ko

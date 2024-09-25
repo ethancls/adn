@@ -1,5 +1,5 @@
 #include "gen.h"
-#define PBSTR "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+#define PBSTR "************************************************************"
 #define PBWIDTH 60
 
 double temps_CPU()
@@ -88,10 +88,10 @@ data_t defineConst()
 {
     data_t data;
     data.POP = 1000;
-    data.ERA = 30000;
+    data.ERA = 10000;
     data.IOTA = 21;
     data.SOL = 0;
-    strcpy(data.file, "adn3.txt");
+    strcpy(data.file, "adn1.txt");
     printf("\n     Default Settings [POP : %d, ERA : %d, IOTA : %d, FILE : %s]\n", data.POP, data.ERA, data.IOTA, data.file);
 
     struct tm *timenow;
@@ -518,7 +518,7 @@ data_t display_solutions(data_t *data, int i, FILE *f)
                 }
                 if (data->seq[0].brin[j].compl == 1)
                 {
-                    fwrite(" MUTÉ", sizeof(char), sizeof(" MUTÉ"), f);
+                    fputs(" MUTE", f);
                 }
                 fputc('\n', f);
             }

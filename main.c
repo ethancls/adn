@@ -45,7 +45,7 @@ int main()
 
     printf("\n      MEMORY used : %zu mo, %zu ko\n", malloc_size(data.seq) / (1 << 20), malloc_size(data.seq) / (1 << 10));
 
-    fwrite("\nSPECS : \n", sizeof(char), sizeof("\nSPECS : \n"), f);
+    fprintf(f, "\nSPECS : \n");
 
     fprintf(f, "\n    Different valid sequences : %d\n", data.SOL);
 
